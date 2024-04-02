@@ -22,6 +22,6 @@
 
 ---
 
-Настройка zzookeeper && kafka под Windows:
+Настройка zookeeper && kafka под Windows:
 [https://habr.com/ru/articles/496182/](https://habr.com/ru/articles/496182/)
 
